@@ -1,4 +1,4 @@
-<img width="1916" height="957" alt="resim" src="https://github.com/user-attachments/assets/0ddbbd77-a674-4054-85a7-36fd6a61c544" /># AntiumQ-Public-Preview
+# AntiumQ-Public-Preview
 
 #Anime Watching Site Frontend(React+Vite+TailWind) Backend(Codeİgniter4)
 
@@ -66,6 +66,7 @@ Find User=
 <img width="1918" height="977" alt="resim" src="https://github.com/user-attachments/assets/8c1c053a-03e2-472a-89b9-441cd6f6935a" />
 User WatchList= 
 <img width="1916" height="957" alt="resim" src="https://github.com/user-attachments/assets/af5453a3-9faa-48f2-ab30-fde2415456d9" />
+<img width="1916" height="957" alt="resim" src="https://github.com/user-attachments/assets/0ddbbd77-a674-4054-85a7-36fd6a61c544" />
 User Continue=
 <img width="1918" height="786" alt="resim" src="https://github.com/user-attachments/assets/56e01e84-30a9-4daf-89ff-3160148e1658" />
 
